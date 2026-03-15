@@ -175,6 +175,25 @@ Key KPIs such as total sales, average selling price, and brand share
 This dashboard helps in high-level decision-making and business reporting.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🎥 Dashboard Demo Video
+
+Watch the interactive Power BI dashboard demonstration for this project:
+
+▶️ https://youtu.be/YOUR_VIDEO_LINK
+
+This demo video showcases:
+
+• Interactive Power BI dashboard  
+• Sales trends and key KPIs  
+• Top car brands and models analysis  
+• Seller performance insights  
+• State-wise sales distribution  
+
+The dashboard enables quick exploration of sales performance and supports data-driven business insights.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📁 Project Structure
 Car_Sales_Analysis/
 │
